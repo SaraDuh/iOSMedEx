@@ -1,0 +1,6 @@
+framework module Pods_iOSMedEx {
+  umbrella header "Pods-iOSMedEx-umbrella.h"
+
+  export *
+  module * { export * }
+}
